@@ -15,7 +15,7 @@ HPC users can submit issues and bugs in the documentation {here}.
 Clone repo and create python environment:
 
 ```bash
-git clone https://github.com/northeastern-rc/rc-public-documentation
+git clone git@github.com:northeastern-rc/rc-public-documentation.git
 cd rc-public-documentation
 
 python3.11 -m venv .venv
@@ -36,16 +36,6 @@ $ pre-commit install
 pre-commit installed at .git/hooks/pre-commit
 
 pip install -r docs/requirements.txt
-```
-
-
-
----
-```bash
-pip install -r requirements
-
-brew install sphinx-doc
-pip install jupyterlab-myst
 ```
 ---
 
