@@ -18,4 +18,4 @@ A Department of Earth Sciences team used the HPC cluster to develop complex clim
 
 A Computer Science research group leveraged the GPU capabilities of our HPC cluster for their Machine Learning research. They trained complex neural network models for image recognition tasks, significantly reducing the time required for model training and improving the overall efficiency of their project.
 
-## User Testimonials Coming Soon!
+## User Testimonials: Coming Soon!
